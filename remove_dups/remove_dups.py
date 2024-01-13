@@ -1,3 +1,5 @@
+# from @bOO1 YouTube
+
 old = ['a', 'b', 'a', 'c', 'b', 'a']
 
 # most common way - sets do not keep order
